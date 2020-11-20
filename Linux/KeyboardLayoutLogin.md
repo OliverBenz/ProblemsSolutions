@@ -15,6 +15,6 @@ and
 
 
 ## How to fix
-Simply change the X11 keyboard layout; not just the system keyboard layout.
+Simply change the X11 keyboard layout; not just the system keyboard layout. <br />
 Update x11-layout: `localectl set-x11-keymap de`
 
