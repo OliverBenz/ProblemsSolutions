@@ -13,3 +13,4 @@ This repository contains a number of problems and the corresponding solutions th
 
 ## Linux
 - [Keyboard Layout at Login](Linux/KeyboardLayoutLogin.md)
+- [Gnome Terminal Locale](Linux/GnomeTerminalLocale.md)
