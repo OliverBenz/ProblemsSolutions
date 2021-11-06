@@ -15,3 +15,4 @@ This repository contains a number of problems and the corresponding solutions th
 - [Keyboard Layout at Login](Linux/KeyboardLayoutLogin.md)
 - [Gnome Terminal Locale](Linux/GnomeTerminalLocale.md)
 - [Bluetooth Startup Connect](Linux/BluetoothStartup.md)
+- [Default Application Open URL](Linux/DefaultApplicationUrl.md)
