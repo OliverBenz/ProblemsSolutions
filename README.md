@@ -16,3 +16,4 @@ This repository contains a number of problems and the corresponding solutions th
 - [Gnome Terminal Locale](Linux/GnomeTerminalLocale.md)
 - [Bluetooth Startup Connect](Linux/BluetoothStartup.md)
 - [Default Application Open URL](Linux/DefaultApplicationUrl.md)
+- [Pacman Signature Issue](Linux/PacmanInvalidPackages.md)
