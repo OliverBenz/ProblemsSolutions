@@ -12,6 +12,7 @@ This repository contains a number of problems and the corresponding solutions th
 
 
 ## Linux
+- [Common Software](Linux/CommonSoftware.md)
 - [Keyboard Layout at Login](Linux/KeyboardLayoutLogin.md)
 - [Gnome Terminal Locale](Linux/GnomeTerminalLocale.md)
 - [Bluetooth Startup Connect](Linux/BluetoothStartup.md)
