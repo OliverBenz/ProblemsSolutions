@@ -12,6 +12,7 @@ Okular      | Nice pdf viewer
 Calibre     | E-Book management software
 Xournal++   | Hand written notes on your pc/laptop
 TexMaker    | Latex writer
+Etcher      | Flash an ISO file to a USB.
 
 ## Image
 Name      |  Usage Description
