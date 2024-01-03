@@ -9,6 +9,7 @@ This repository contains a number of problems and the corresponding solutions th
 
 ## Hardware Problems
 - [Logitech Wireless Connection Problem](Hardware/LogitechWirelessConnection.md)
+- [Speakers Buzzing](Hardware/SpeakerBuzzing.md)
 
 
 ## Linux
