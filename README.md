@@ -20,3 +20,4 @@ This repository contains a number of problems and the corresponding solutions th
 - [Default Application Open URL](Linux/DefaultApplicationUrl.md)
 - [Pacman Signature Issue](Linux/PacmanInvalidPackages.md)
 - [Unallocated space within partition](Linux/UnallocatedSpaceWithinPartition.md)
+- [Wifi Enterprise Connection in Sway](/Linux/WifiConnectionSway.md)
